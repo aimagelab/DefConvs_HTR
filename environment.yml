@@ -1,0 +1,14 @@
+name: htr_deformable
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pytorch
+  - cudatoolkit=10.2
+  - torchvision
+  - opencv
+  - msgpack-python
+  - editdistance
+  - tensorboard
+  - pandas
+
