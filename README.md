@@ -2,6 +2,7 @@
 Boosting modern and historical handwritten text recognition with deformable convolutions (ICPR20, IJDAR)
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/11275056/172329689-e7abc318-51de-44ff-bcb1-a8d2d225eda8.gif)
+<p><img src="https://user-images.githubusercontent.com/11275056/172329689-e7abc318-51de-44ff-bcb1-a8d2d225eda8.gif"></p>
 
 This repo contains the source code for the papers:
 - Cojocaru, Iulian, et al. "Watch your strokes: Improving handwritten text recognition with deformable convolutions." 2020 25th International Conference on Pattern Recognition (ICPR). IEEE, 2021.
