@@ -1,0 +1,1 @@
+To visualize the receptive field of your image, run the model and save the offsets at each layer as numpy arrays.
